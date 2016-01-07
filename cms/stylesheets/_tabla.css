@@ -1,0 +1,145 @@
+/* ******************************************************** */
+	/*  Reglas para las grillas de Mantenimiento */
+/* ******************************************************** */
+
+.tblMnt {
+    border-collapse:collapse;
+    border:solid 1px #fff;
+    font-family:serif;
+}
+.tblMnt th {
+    text-align:left;
+    height:2em;
+    background:#328aa4 url(../_img/th.jpg) repeat-x;
+    color:#fff;
+    background-repeat:repeat;
+}
+.textoContenido{float:right;}
+.tblMnt td {
+    height:35px;
+    color:#000;
+    border:solid 1px #fff;
+    font-weight:normal;
+}
+
+#g{
+    width:10px;
+    background:#328aa4 url(../_img/th.jpg) repeat-x;
+}
+.tblMnt tbody .f1 {
+    background: #e5f1f4;
+    color: #444;
+}
+
+.tblMnt tbody .f2 {
+    background: #f8fbfc;
+    color: #444;
+}
+
+#R {
+	font-size: 10px; 
+	color: #FF0000; 
+	font-weight: bold; 
+	font-family: Verdana, Arial,Helvetica, sans-serif; 
+}
+
+#A {
+	font-size: 10px; 
+	color: #009933; 
+	font-weight: bold; 
+	font-family: Verdana, Arial,Helvetica, sans-serif; 
+}
+
+.textoContenido {
+	font-size: 10px; 
+	color: #006699; 
+	font-weight: bold; 
+	font-family: Verdana, Arial,Helvetica, sans-serif; 
+        text-align: left;
+}
+
+a:link {
+    color:white;
+	text-decoration:none;
+}
+
+a:hover {
+    color:yellow;
+	text-decoration:none;
+}
+
+a:visited {
+    color:white;
+	text-decoration:none;
+}
+
+a:active {
+	color:yellow;
+	text-decoration:none;
+}
+
+.over{ /* pintar filas de grilla */
+    
+}
+
+.out{ /* pintar filas de grilla */
+
+}
+.Checked {
+    background-color:#0099FF;
+}
+.unChecked {
+    background-color:#df9e2e;
+
+}
+
+
+/* paginacion */
+
+/**************** http://blog.timersys.com/php/paginacion-con-php-y-mysql-3-estilos/ *******/
+
+/* -------------------------------------------- */
+/* ------------- Pagination: Flickr ----------- */
+/* -------------------------------------------- */
+
+#pagination-flickr li          { border:0; margin:0; padding:0; font-size:11px; list-style:none; /* savers */ float:left; }
+#pagination-flickr a           { border:solid 1px #DDDDDD; margin-right:2px; }
+#pagination-flickr .previous-off,
+#pagination-flickr .next-off   { color:#666666; display:block; float:left; font-weight:bold; padding:3px 4px; }
+#pagination-flickr .next a,
+#pagination-flickr .previous a { font-weight:bold; border:solid 1px #FFFFFF; }
+#pagination-flickr .active     { color:#ff0084; font-weight:bold; display:block; float:left; padding:4px 6px; }
+#pagination-flickr a:link,
+#pagination-flickr a:visited   { color:#0063e3; display:block; float:left; padding:3px 6px; text-decoration:none; }
+#pagination-flickr a:hover     { border:solid 1px #666666; }
+
+
+/* -------------------------------------------- */
+/* ----------- Pagination: Digg Style --------- */
+/* -------------------------------------------- */
+
+#pagination-digg li          { border:0; margin:0; padding:0; font-size:11px; list-style:none; /* savers */ float:left; }
+#pagination-digg a           { border:solid 1px #9aafe5; margin-right:2px; }
+#pagination-digg .previous-off,
+#pagination-digg .next-off   { border:solid 1px #DEDEDE; color:#888888; display:block; float:left; font-weight:bold; margin-right:2px; padding:3px 4px; }
+#pagination-digg .next a,
+#pagination-digg .previous a { font-weight:bold; }
+#pagination-digg .active     { background:#2e6ab1; color:#FFFFFF; font-weight:bold; display:block; float:left; padding:4px 6px; /* savers */ margin-right:2px; }
+#pagination-digg a:link,
+#pagination-digg a:visited   { color:#0e509e; display:block; float:left; padding:3px 6px; text-decoration:none; }
+#pagination-digg a:hover     { border:solid 1px #0e509e; }
+
+/* -------------------------------------------- */
+/* ------------- Pagination: Clean ------------ */
+/* -------------------------------------------- */
+#pagination-clean li          { border:0; margin:0; padding:0; font-size:11px; list-style:none; /* savers */ float:left; }
+/* savers #pagination-clean li,*/
+#pagination-clean a           { border-right:solid 1px #DEDEDE; margin-right:2px; }
+#pagination-clean .previous-off,
+#pagination-clean .next-off   { color:#888888; display:block; float:left; font-weight:bold; padding:3px 4px; }
+#pagination-clean .next a,
+#pagination-clean previous a  { border:none; font-weight:bold; }
+#pagination-clean .active     { color:#000000; font-weight:bold; display:block; float:left; padding:4px 6px; /* savers */ border-right:solid 1px #DEDEDE; }
+#pagination-clean a:link,
+#pagination-clean a:visited   { color:#0e509e; display:block; float:left; padding:3px 6px; text-decoration:underline; }
+#pagination-clean a:hover     { text-decoration:none; }

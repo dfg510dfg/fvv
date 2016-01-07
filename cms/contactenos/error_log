@@ -1,0 +1,61 @@
+[26-Feb-2014 18:09:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelogc/public_html/webendesarrollo/cms/_config/Configuracion.php:16) in /home/intelogc/public_html/webendesarrollo/cms/pagina/ControladorPagina.php on line 70
+[26-Feb-2014 18:48:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelogc/public_html/webendesarrollo/cms/_config/Configuracion.php:16) in /home/intelogc/public_html/webendesarrollo/cms/pagina/ControladorPagina.php on line 70
+[26-Feb-2014 18:49:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelogc/public_html/webendesarrollo/cms/_config/Configuracion.php:16) in /home/intelogc/public_html/webendesarrollo/cms/pagina/ControladorPagina.php on line 70
+[01-Mar-2014 12:14:29] PHP Parse error:  syntax error, unexpected '<' in /home/intelogc/public_html/webendesarrollo/cms/pagina/UPDPagina.php on line 138
+[19-Mar-2014 14:42:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelogc/public_html/webendesarrollo/cms/_config/Configuracion.php:16) in /home/intelogc/public_html/webendesarrollo/cms/pagina/ControladorPagina.php on line 70
+[19-Mar-2014 14:45:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/intelogc/public_html/webendesarrollo/cms/_config/Configuracion.php:16) in /home/intelogc/public_html/webendesarrollo/cms/pagina/ControladorPagina.php on line 70
+[21-Mar-2014 16:36:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 16:36:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 16:38:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:14:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:15:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:15:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:16:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:19:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:19:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:23:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:26:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[21-Mar-2014 17:28:08] PHP Parse error:  syntax error, unexpected '[' in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 282
+[21-Mar-2014 17:29:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 11:56:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 11:56:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 11:56:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 11:58:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 11:58:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:00:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:00:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:01:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:01:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:01:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:01:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:03:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:09:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:09:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:09:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:10:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:10:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:13:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:17:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:17:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:17:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:18:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:18:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:19:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:19:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:21:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:23:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 12:23:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[22-Mar-2014 17:18:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[24-Mar-2014 13:04:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[24-Mar-2014 13:14:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[24-Mar-2014 13:24:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 568
+[24-Mar-2014 13:25:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 568
+[24-Mar-2014 13:25:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 568
+[24-Mar-2014 13:46:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 569
+[24-Mar-2014 13:54:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/intelogc/public_html/webendesarrollo/cms/util/Mysql.php on line 570

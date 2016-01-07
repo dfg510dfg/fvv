@@ -1,0 +1,1 @@
+[01-Jun-2015 17:35:40 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/sesamper/public_html/cms/_util/Mysql.php on line 32
